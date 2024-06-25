@@ -1,0 +1,101 @@
+.breadcumb-section {
+	background: url(../images/breadcumb-bg.jpg) no-repeat center top / cover;
+	min-height: 525px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	z-index: 1;
+
+	@media(max-width: 767px) {
+		min-height: 350px;
+	}
+
+
+	.breadcumb-wrap {
+		text-align: left;
+		padding-top: 40px;
+		@media(max-width: 767px) {
+			padding-top: 65px;
+		}
+		span {
+			color: #FFF;
+			font-family: DM Sans;
+			font-size: 15px;
+			font-weight: 700;
+			line-height: 30px;
+			letter-spacing: 1.65px;
+			text-transform: uppercase;
+			margin-bottom: 15px;
+			border: 1px dashed rgba(255, 255, 255, 0.22);
+			@media(max-width: 767px) {
+				font-size: 13px;
+				line-height: 25px;
+			}
+		}
+
+		h2 {
+			margin-bottom: 20px;
+			color: #FFF;
+			font-family: Raleway;
+			font-size: 70px;
+			font-weight: 700;
+			line-height: 80px;
+			letter-spacing: 0.7px;
+			text-transform: capitalize;
+
+
+			@media(max-width: 767px) {
+				font-size: 30px;
+				line-height: 35px;
+				margin-bottom: 10px;
+			}
+		}
+
+		ul {
+			li {
+				display: inline-block;
+				padding: 0px 5px;
+				color: #fff;
+				position: relative;
+				font-size: 20px;
+
+				@media(max-width:767px) {
+					font-size: 18px;
+				}
+
+				&:after {
+					content: "/";
+					position: relative;
+					left: 7px;
+				}
+
+				&:last-child {
+					span {
+						color: #cbd4fd;
+					}
+
+					&:after {
+						display: none;
+					}
+				}
+
+				a {
+					color: #fff;
+					font-size: 20px;
+					transition: all .3s;
+
+					&:hover {
+						color: $template-color;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+.about-section.about-section-s2 {
+	padding-top: 170px;
+}

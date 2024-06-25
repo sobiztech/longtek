@@ -1,0 +1,221 @@
+
+.blog-sidebar{
+	.blog-widget{
+		background: #F4F6F8;
+		padding: 35px 30px;
+		margin-bottom: 30px;
+		
+		.title{
+			color: #00205C;
+			font-size: 22px;
+			font-weight: 700;
+			line-height: 30px; /* 136.364% */
+			text-transform: capitalize;
+			margin-bottom: 15px;
+			position: relative;
+			padding-left: 10px;
+			&::before{
+				position: absolute;
+				content: "";
+				width: 1.907px;
+				height: 21px;
+				background: $template-color;
+				left: 0;
+				top: 50%;
+				transform: translateY(-50%);
+			}
+		}
+	}
+	.bloger-profile {
+		.bloger-img {
+			text-align: center;
+			margin: 30px 0 20px;
+			img{
+				height: 100px;
+				width: 100px;
+				border-radius: 100%;
+				object-fit: cover;
+			}
+		}
+		.name{
+			color: #00205C;
+			text-align: center;
+			font-size: 16px;
+			font-weight: 700;
+			text-transform: uppercase;
+			
+		}
+		.bloger-title{
+			color: #727A7D;
+			text-align: center;
+			font-size: 14px;
+			font-weight: 400;
+		}
+		.bloger-info{
+			color: #727A7D;
+			text-align: center;
+			font-size: 14px;
+			font-weight: 400;
+			margin-bottom: 30px;
+		}
+		.bloger-social{
+			margin-bottom: 30px;
+			list-style: none;
+			display: flex;
+			align-items: center;
+			column-gap: 13px;
+			justify-content: center;
+			li {
+				list-style: none;
+				a{
+					width: 42px;
+					height: 37px;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					border: 1px solid #E8E8E8;
+					color: #7D7E80;
+					transition: all .3s ease;
+					&:hover{
+						color: $white;
+						background: $template-color;
+					}
+				}
+			}
+		}
+	}
+	.blog-search {
+		.search-option{
+			position: relative;
+			height: 55px;
+			width: 100%;
+			input{
+				width: 100%;
+				height: 55px;
+				background: $white;
+				padding: 15px;
+				border: none;
+				outline: none;
+			}
+		}
+		.search-icon {
+			position: absolute;
+			top: 50%;
+			transform: translateY(-50%);
+			right: 25px;
+			i{
+				color: $black;
+				width: 14.961px;
+				height: 15px;
+			}
+		}
+	}
+	.recent-blog {
+		.recent-post-list {
+			.single-post {
+				display: flex;
+				align-items: start;
+				column-gap: 23px;
+				margin-bottom: 30px;
+				&:last-child{
+					margin-bottom: 0;
+				}
+				.post-img {
+					img {
+						min-width: 100px;
+						height: 85px;
+						object-fit: cover;
+					}
+				}
+				.post-info {
+					.date{
+						display: flex;
+						align-items: center;
+						column-gap: 10px;
+						.icon{
+							img{
+								width: 15px;
+								height: 15px;
+							}
+						}
+						color: #888686;
+						font-size: 15px;
+						font-weight: 400;
+						line-height: 26px; /* 173.333% */
+						text-transform: capitalize;
+					}
+					.post-title{
+						a {
+							color: #00205C;
+							font-size: 16px;
+							font-weight: 600;
+							line-height: 28.8px; /* 180% */
+							@media (max-width: 576px) {
+								font-size: 14px;
+								line-height: 20.8px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.blog-category-list {
+		.category-item {
+			list-style: none;
+			li{
+				margin-bottom: 20px;
+				&:last-child{
+					margin-bottom: 0;
+				}
+				a{
+					color: #445658;
+					font-size: 16px;
+					font-weight: 400;
+					line-height: 26px; /* 162.5% */
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+					padding: 15px;
+					border-radius: 2px;
+					border: 1px solid #EDEDED;
+					background: $white;
+					transition: all .3s ease;
+					&:hover{
+						background: $template-color;
+						color: $white;
+					}
+				}
+			}
+		}
+	}
+	.tag-list {
+		.tag-item {
+			display: flex;
+			align-items: center;
+			column-gap: 13px;
+			row-gap: 13px;
+			flex-wrap: wrap;
+			list-style: none;
+			li{
+				a{
+					padding: 10px 20px;
+					color: #77787B;
+					text-align: center;
+					font-size: 14px;
+					font-style: normal;
+					font-weight: 400;
+					line-height: normal;
+					text-transform: capitalize;
+					background: $white;
+					transition: all .3s ease;
+					display: block;
+					&:hover{
+						color: $white;
+						background: $template-color;
+					}
+				}
+			}
+		}
+	}
+}

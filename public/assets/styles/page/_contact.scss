@@ -1,0 +1,165 @@
+/* 11. contact-pg-section */
+
+.contact-address {
+    @media (max-width: 767px) {
+        margin-bottom: 50px;
+    }
+
+    li {
+        padding: 25px 40px 25px 50px;
+        background: $white;
+        display: flex;
+        align-items: center;
+        column-gap: 39px;
+        transition: all .3s ease;
+        box-shadow: 0px 3px 13px rgba(0, 0, 0, 0.08);
+        margin-bottom: 30px;
+
+        @media (max-width: 1400px) {
+            padding: 25px;
+            column-gap: 30px;
+        }
+
+        @media (max-width:1200px) {
+            padding: 20px;
+            column-gap: 20px;
+        }
+
+        @media (max-width: 1000px) {
+            flex-direction: column;
+            row-gap: 30px;
+            text-align: center;
+        }
+
+        @media (max-width: 767px) {
+            margin-bottom: 30px;
+        }
+
+        .img {
+            width: 65px;
+
+            @media (max-width: 1200px) {
+                width: 50px;
+            }
+
+            svg {
+                width: 65px;
+                height: 50px;
+
+                @media (max-width: 1200px) {
+                    width: 50px;
+                }
+
+                g {
+                    path {
+                        fill: #0057FF;
+                        transition: all .3s ease;
+                    }
+                }
+
+                path {
+                    fill: #0057FF;
+                    transition: all .3s ease;
+                }
+            }
+        }
+
+        .text {
+            h5 {
+                color: #000;
+                font-size: 24px;
+                font-weight: 500;
+                line-height: normal;
+                text-transform: capitalize;
+                margin-bottom: 14px;
+                transition: all .3s ease;
+
+                @media (max-width:1200px) {
+                    font-size: 20px;
+                }
+            }
+
+            p {
+                color: #555;
+                font-size: 15px;
+                font-weight: 400;
+                line-height: 26px;
+                /* 173.333% */
+                margin-bottom: 0;
+                transition: all .3s ease;
+
+                @media (max-width:1200px) {
+                    font-size: 14px;
+                }
+            }
+        }
+
+        &:hover,
+        &.active {
+            background: $template-color;
+
+            .img {
+                svg {
+                    g {
+                        path {
+                            fill: $white;
+                        }
+                    }
+
+                    path {
+                        fill: $white;
+                        transition: all .3s ease;
+                    }
+                }
+            }
+
+            .text {
+                h5 {
+                    color: $white;
+                }
+
+                p {
+                    color: $white;
+                }
+            }
+        }
+    }
+}
+
+.contact-map {
+    line-height: 1px;
+    margin-left: 30px;
+
+    @media (max-width:1199px) {
+        margin-left: 0px;
+    }
+
+    iframe {
+        height: 500px;
+        width: 100%;
+
+        @media (max-width:1000px) {
+            height: 628px;
+        }
+
+        @media (max-width:991px) and (min-width:768px) {
+            height: 629px;
+        }
+    }
+}
+
+.contact-us-section {
+    .new-coment-form {
+        margin-top: 90px;
+
+        p {
+            color: #555;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 30px;
+            /* 187.5% */
+            margin-bottom: 15px;
+        }
+    }
+}

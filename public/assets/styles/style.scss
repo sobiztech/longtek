@@ -1,0 +1,116 @@
+/*
+    @version         : 1.0.0
+    @Template Name   : Powerx - Electric Service HTML5 Template
+    @Template author : Ui-Drops
+*/
+
+/*--------------------------------------------------------------
+css table of contents
+----------------------------------------------------------------
+
+1. General
+	1.1 Theme Reset Style
+	1.2 Global Elements
+
+2. header
+
+3. sections
+	3.1 hero_section 
+	3.2 features-section
+	3.3 about-section
+	3.4 servces-section
+	3.5 brand-section
+	3.6 trusted-section 
+	3.7 counter-section
+	3.8 project-section
+	3.9 get-quate-section
+	3.10 video-section
+	3.11 faq-section
+	3.12 process-section
+	3.13 testiminial-section
+	3.14 blog-section
+	3.15 cta-section
+
+4. footer_section
+
+5. Home-style-2
+   5.1 features-section-s2
+   5.2 about-section-s2
+   5.3 more-catagroeis-section
+   5.4 call-message-section
+   5.5 service-section-s2
+   5.6 counter-section-s2
+   5.7 process-section-s2
+   5.8 brand-section-s2
+   5.9 testimonial-section-s2
+   5.10 team-section
+   5.11 project-section-s2
+   5.12 blog-section-s2 
+
+6. Home-style-3
+   6.1 quate-info-section
+   6.2 about-section-s3
+   6.3 servces-section-s3
+   6.4 features-section-s3
+   6.5 testiminial-section-s3
+   6.6 team-section-s2
+   6.7 faq-section-s2
+   6.8 counter-section-s3
+   6.9 project-section-s3
+   6.10 blog-section-s2
+   6.11 Map-section
+   6.12 proejct-all-section
+
+7. service-single-section
+
+8. proejct-single-section
+
+9. blog-page-section
+
+10.blog-single-section
+
+11. contact-pg-section
+
+12. error_page 
+
+
+
+----------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+1. General
+----------------------------------------------------------------*/
+
+// helpers
+@import "helpers/variables";
+
+// base
+@import "base/basic";
+
+
+// components
+@import "components/top-title";
+@import "components/buttons";
+@import "components/breadcrumb";
+@import "components/form";
+@import "components/social-links";
+@import "components/blog-rightside";
+
+// layout
+@import "layout/header";
+@import "layout/hero";
+@import "layout/footer";
+
+
+
+// page
+@import "page/home-main";
+@import "page/home-style-s2";
+@import "page/home-style-s3";
+@import "page/service-single";
+@import "page/proejct-single";
+@import "page/blog";
+@import "page/blog-single";
+@import "page/contact";
+@import "page/error";

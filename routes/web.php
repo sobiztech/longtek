@@ -14,5 +14,33 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.index');
+});
+
+Route::get('/about', function () {
+    return view('pages.about');
+});
+
+Route::get('/accesscontroller', function () {
+    return view('pages.accesscontroller');
+});
+
+Route::get('/alarm', function () {
+    return view('pages.alarm');
+});
+
+Route::get('/cctv', function () {
+    return view('pages.cctv');
+});
+
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+
+Route::get('/download', function () {
+    return view('pages.download');
+});
+
+Route::get('/intercomsystem', function () {
+    return view('pages.intercomsystem');
 });

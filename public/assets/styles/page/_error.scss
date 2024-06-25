@@ -1,0 +1,41 @@
+/* 12. error_page  */
+.error-section{
+    padding: 115px 0;
+    @media (max-width:991px) {
+        padding: 80px 0;
+    }
+    @media (max-width:767px) {
+        padding: 70px 0;
+    }
+}
+.error-wrap{
+    text-align: center;
+    img{
+        // max-width: 640px;
+        margin-bottom: 85px;
+        @media (max-width:991px) {
+            margin-bottom: 40px;
+        }
+    }
+    h2{
+        margin-bottom:25px;
+        color: #00205C;
+        font-size: 50px;
+        font-weight: 700;
+        span{
+            color: #0057FF;
+        }
+        @media (max-width:991px) {
+            font-size: 30px;
+        }
+    }
+    p{
+        color: #555;
+        font-size: 18px;
+        font-weight: 400;
+        margin-bottom: 65px;
+        @media (max-width:991px) {
+            margin-bottom: 20px;
+        }
+    }
+}
