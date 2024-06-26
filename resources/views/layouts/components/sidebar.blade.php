@@ -17,15 +17,16 @@
 								<a href="/">Home</a>
 							</li>
 							<li>
-								<a href="service.html">Services</a>
+								<a style="cursor: pointer;">Services</a>
 								<span class="submenu-open"></span>
 								<ul class="submenu">
 									<li><a href="/cctv">CCTVs</a></li>
 									<li><a href="/alarm">Alarms</a></li>
-									<li><a href="/intercomsystem">Intercom Systems</a></li>
 									<li><a href="/accesscontroller">Access Controllers</a></li>
+									<li><a href="/intercomsystem">Intercom Systems</a></li>
 								</ul>
 							</li>
+							<li><a href="/maintenance">Maintenances</a></li>
 							<li><a href="/about">About us</a></li>
 							<li>
 								<a href="projects.html">Portfolio</a>

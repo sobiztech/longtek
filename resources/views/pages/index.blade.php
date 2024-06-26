@@ -17,7 +17,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="hreo-content">
                         <div class="animted-top wow fadeIndown" data-wow-delay="100ms">
-                            <span>Trusted electricity Care</span>
+                            <span>Longtek Electronics Ltd</span>
                             <br />
                             <h2>Air conditioning</h2>
                             <h3><span>system</span> for your home and office</h3>
@@ -210,7 +210,7 @@
                     <div class="top_title">
                         <span>
                             <img src="assets/images/title-shap.png" alt="" />
-                            Trusted electricity Care
+                            Longtek Electronics Ltd
                         </span>
                         <h2>Outstanding Residential & Commercial Services</h2>
                         <p>

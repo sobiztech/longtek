@@ -64,7 +64,7 @@
                             </li>
                             <li>
                                 <img src="assets/images/ft-icon/location.svg" alt="" />
-                                12 BISHOPS CLOSE ENFIELD , EN1 3QJ , United Kingdom
+                                12 Bishops Close, Enfield EN1 3QJ, UK
                             </li>
                         </ul>
                     </div>

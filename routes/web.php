@@ -44,3 +44,8 @@ Route::get('/download', function () {
 Route::get('/intercomsystem', function () {
     return view('pages.intercomsystem');
 });
+
+Route::get('/maintenance', function () {
+    return view('pages.maintenance');
+});
+
