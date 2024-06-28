@@ -17,35 +17,35 @@ Route::get('/', function () {
     return view('pages.index');
 });
 
-Route::get('/about', function () {
+Route::get('/aboutUs', function () {
     return view('pages.about');
 });
 
-Route::get('/accesscontroller', function () {
-    return view('pages.accesscontroller');
+Route::get('/accessControls', function () {
+    return view('pages.accesscontrol');
 });
 
-Route::get('/alarm', function () {
+Route::get('/alarms', function () {
     return view('pages.alarm');
 });
 
-Route::get('/cctv', function () {
+Route::get('/cctvs', function () {
     return view('pages.cctv');
 });
 
-Route::get('/contact', function () {
+Route::get('/contacts', function () {
     return view('pages.contact');
 });
 
-Route::get('/download', function () {
+Route::get('/downloads', function () {
     return view('pages.download');
 });
 
-Route::get('/intercomsystem', function () {
+Route::get('/intercomSystems', function () {
     return view('pages.intercomsystem');
 });
 
-Route::get('/maintenance', function () {
+Route::get('/maintenances', function () {
     return view('pages.maintenance');
 });
 

@@ -19,8 +19,8 @@
                         <div class="animted-top wow fadeIndown" data-wow-delay="100ms">
                             <span>Longtek Electronics Ltd</span>
                             <br />
-                            <h2>CCTV</h2>
-                            <h3><span>system</span> for your home and office</h3>
+                            <h3><span>Access Controls<span></h3>
+                            <h2>for your home and office</h2>
                         </div>
                         <div class="hero-botom wow fadeInUp" data-wow-delay="100ms">
                             <div class="video-item">
@@ -80,27 +80,26 @@
     </div>
 </section>
 
-<!-- ==== AboutSectionS2 start ==== -->
-<section class="about-section-s2 section_space" style="padding: 40px;">
-    <div class="shape">
-        <img src="assets/images/about/shape-1.png" alt="" />
-    </div>
+<!-- ==== AboutSectionS3 start ==== -->
+<section class="about-section-s3 section_space">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-12 wow fadeInLeft" data-wow-delay="300ms">
-                <div class="about-image">
-                    <div class="image-1">
-                        <img src="assets/images/about/3.jpg" alt="" />
-                        <div class="image-shape">
-                            <img src="assets/images/about/shape-3.png" alt="" />
+            <div class="col-lg-6 col-12 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                <div class="about-left-wrap">
+                    <div class="image">
+                        <img src="assets/images/about/5.jpg" alt="" />
+                        <div class="shape">
+                            <img src="assets/images/about/shape.svg" alt="" />
                         </div>
-                    </div>
-                    <div class="image-2">
-                        <img src="assets/images/about/4.jpg" alt="" />
+                        <div class="shape-2">
+                            <svg width="474" height="559" viewBox="0 0 474 559" fill="none">
+                                <path d="M474 17C474 7.61116 466.389 0 457 0H17C7.61115 0 0 7.61116 0 17V465.09C0 473.352 5.94104 480.418 14.081 481.837L454.081 558.528C464.48 560.341 474 552.337 474 541.781V17Z" fill="#00205C" />
+                            </svg>
+                        </div>
                     </div>
                     <div class="item">
                         <p>Services</p>
-                        <h3><span class="count">545</span>/Year</h3>
+                        <h3><span class="count">1990</span>/Year</h3>
                         <div class="hsape">
                             <svg width="36" height="27" viewBox="0 0 36 27" fill="none">
                                 <path d="M0 0H36L16.2 15L0 27V0Z" fill="#0057FF" />
@@ -110,32 +109,46 @@
                 </div>
             </div>
             <div class="col-lg-6 col-12">
-                <div class="about-right-content">
+                <div class="about-right-wrap">
                     <div class="top_title">
                         <span>
-                            <img src="assets/images/title-shap-s2.png" alt="" />
-                            Longtek Electronics LTD
+                            <img src="assets/images/title-shap.png" alt="" />
+                            Longtek Electronics Ltd
                         </span>
-                        <h2>Ensure Optimal Security with Longtek Electronics' CCTV Systems</h2>
-                        <div style="text-align: justify;">
-                            <a>At Longtek Electronics, we specialize in providing top-notch CCTV systems to secure and monitor both residential and
-                                commercial properties.<br /> Our comprehensive services are designed to ensure that your surveillance setup functions optimally,
-                                offering peace of mind and robust protection against potential threats.</a>
+                        <h2>Secure Your Business with Longtek Electronics</h2>
+                        <p>
+                            Longtek Electronics (Europe) Ltd specializes in providing robust access control systems designed to enhance the security of
+                            your business or institution. Located in Enfield Town, England, we offer state-of-the-art solutions to ensure that only
+                            authorized individuals can access restricted areas.
+                        </p>
+                    </div>
+                    <div class="noun-electricit">
+                        <div class="icon">
+                            <img src="assets/images/about/icon-3.svg" alt="" />
                         </div>
-                        <p>Why Choose Longtek Electronics for Your CCTV Systems?</p>
-                        <ul>
-                            <li>Expert Installation and Maintenance</li>
-                            <li>State-of-the-Art Technology</li>
-                            <li>Tailored Solutions</li>
-                            <li>24/7 Monitoring</li>
-                        </ul>
+                        <h3>Don't compromise on your safety and security.</h3>
+                    </div>
+                    <div class="about-scervice">
+                        <div class="about-card">
+                            <div class="icon">
+                                <img src="assets/images/about/icon-1.svg" alt="" />
+                            </div>
+                            <div class="text">
+                                <h2>Maintenance and Repair</h2>
+                            </div>
+                        </div>
+                        <div class="about-card">
+                            <div class="icon">
+                                <img src="assets/images/about/icon-2.svg" alt="" />
+                            </div>
+                            <div class="text">
+                                <h2>24/7 Protection</h2>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="shape-2">
-        <img src="assets/images/about/shape-2.png" alt="" />
     </div>
 </section>
 
@@ -178,8 +191,8 @@
                     </div>
                     <div class="text">
                         <h2>Commercial Service</h2>
-                        <p>We provides expert CCTV systems installation and maintenance for commercial properties, ensuring
-                            comprehensive security and monitoring.</p>
+                        <p>Longtek Electronics provides advanced access control systems to secure commercial buildings, ensuring only authorized
+                            personnel can enter restricted areas.</p>
                     </div>
                     <div class="shape">
                         <img src="assets/images/catagroeis/shape-2.png" alt="" />
@@ -195,8 +208,8 @@
                     </div>
                     <div class="text">
                         <h2>Residential Service</h2>
-                        <p>We offer customized CCTV solutions for homes, giving homeowners peace of mind with reliable security and round-the-clock
-                            surveillance.</p>
+                        <p>We offer exceptionally reliable access control solutions for homes, significantly enhancing security and providing
+                            unparalleled peace of mind.</p>
                     </div>
                     <div class="shape">
                         <img src="assets/images/catagroeis/shape-2.png" alt="" />
@@ -212,8 +225,7 @@
                     </div>
                     <div class="text">
                         <h2>Enterprice Service</h2>
-                        <p> Our specialized CCTV services for industrial sites include robust, high-quality camera systems that monitor and secure large,
-                            complex areas effectively.</p>
+                        <p>Our access control systems for industrial sites ensure that sensitive areas are protected and accessible only to authorized workers.</p>
                     </div>
                     <div class="shape">
                         <img src="assets/images/catagroeis/shape-2.png" alt="" />
@@ -240,7 +252,7 @@
                         <img src="assets/images/title-shap-s2.png" alt="" />
                         Longtek Electronics LTD
                     </span>
-                    <h2>Discover Our Diverse CCTV System Selection</h2>
+                    <h2>Explore Our Advanced Access Control Systems</h2>
                 </div>
             </div>
         </div>
@@ -249,70 +261,38 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/bullet_cctv_security_camara.png" alt="" />
+                            <img src="assets/images/team/biometric-access-control-systems.png" alt="" />
                         </div>
-                        <h6><a href="#">Bullet CCTV</a></h6>
+                        <h6><a href="#">Biometric Access Control Systems</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/dome_cctv_security_camara.png" alt="" />
+                            <img src="assets/images/team/card-based-access-control-systems.png" alt="" />
                         </div>
-                        <h6><a href="#">Dome CCTV</a></h6>
+                        <h6><a href="#">Card Access Control Systems</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/hidden_covert_cctv_security_camara.png" alt="" />
+                            <img src="assets/images/team/keypad-access-control-systems.png" alt="" />
                         </div>
-                        <h6><a href="#">Hidden/Covert CCTV</a></h6>
+                        <h6><a href="#">Keypad Access Control Systems</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/infrared_cctv_security_camara.png" alt="" />
+                            <img src="assets/images/team/electronic-and-smart-locks-access-control-systems.png" alt="" />
                         </div>
-                        <h6><a href="#">Infrared CCTV</a></h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
-                    <div class="team-single">
-                        <div class="image">
-                            <img src="assets/images/team/box_cctv_security_camara.png" alt="" />
-                        </div>
-                        <h6><a href="#">Box CCTV</a></h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
-                    <div class="team-single">
-                        <div class="image">
-                            <img src="assets/images/team/outdoor_cctv_security_camara.png" alt="" />
-                        </div>
-                        <h6><a href="#">Outdoor CCTV</a></h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
-                    <div class="team-single">
-                        <div class="image">
-                            <img src="assets/images/team/ptz_cctv_security_camara.png" alt="" />
-                        </div>
-                        <h6><a href="#">PTZ CCTV</a></h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
-                    <div class="team-single">
-                        <div class="image">
-                            <img src="assets/images/team/wireless_cctv_security_camara.png" alt="" />
-                        </div>
-                        <h6><a href="#">Wireless CCTV</a></h6>
+                        <h6><a href="#">Smart Locks Access Control Systems</a></h6>
                     </div>
                 </div>
             </div>
             <div class="bottom-text">
-                <span>Combine Our CCTV Solutions to Achieve Unparalleled Security.</span>
+                <span>Integrate Our Access Control Systems for Superior Security</span>
             </div>
         </div>
     </div>
@@ -327,12 +307,7 @@
         <div class="brand-wrap brand-slider-s2 owl-carousel" style="display: flex; justify-content: center; width: 100%;">
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/alhua_cctv.png" alt="" style="display: block; margin: auto;" />
-                </div>
-            </div>
-            <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
-                <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/hikvision_cctv.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/paxton-access control.png" alt="" style="display: block; margin: auto;" />
                 </div>
             </div>
         </div>
@@ -352,7 +327,8 @@
                         </span>
                         <h2>Do You Need Help With Maintenance</h2>
                         <p>
-                            Our experienced technicians handle everything from initial installation to ongoing maintenance, ensuring your CCTV system is always in perfect working condition.
+                            With over 20 years of experience in the industry, Longtek Electronics is a trusted name in the field of access control.
+                            Our team of experts is well-versed in the latest technologies and industry standards.
                         </p>
                     </div>
                     <div class="item">
@@ -360,10 +336,9 @@
                             <img src="assets/images/call-message/1.jpg" alt="" />
                         </div>
                         <ul>
-                            <li>Professional Installation</li>
-                            <li>System Design and Consultation</li>
-                            <li>Maintenance and Suppor</li>
-                            <li>Upgrades and Expansion</li>
+                            <li>Enhanced Security</li>
+                            <li>Efficient Management</li>
+                            <li>High-Level Security</li>
                         </ul>
                     </div>
                 </div>

@@ -99,8 +99,10 @@
                         <div class="col-lg-6 col-md-12">
                             <select name="service" id="service" required>
                                 <option value="">Select Service Type*</option>
-                                <option value="electrician">Electrician</option>
-                                <option value="mechanic">AC Mechanic</option>
+                                <option value="CCTV">CCTV</option>
+                                <option value="Access Control">Access Control</option>
+                                <option value="Intercom Systems">Intercom System</option>
+                                <option value="Maintenances">Maintenance</option>
                             </select>
                         </div>
                         <div class="col-lg-6 col-md-12">

@@ -20,16 +20,15 @@
 								<a style="cursor: pointer;">Services</a>
 								<span class="submenu-open"></span>
 								<ul class="submenu">
-									<li><a href="/cctv">CCTVs</a></li>
-									<li><a href="/alarm">Alarms</a></li>
-									<li><a href="/accesscontroller">Access Controllers</a></li>
-									<li><a href="/intercomsystem">Intercom Systems</a></li>
+									<li><a href="/cctvs">CCTVs</a></li>
+									<li><a href="/alarms">Alarms</a></li>
+									<li><a href="/accessControls">Access Controls</a></li>
+									<li><a href="/intercomSystems">Intercom Systems</a></li>
 								</ul>
 							</li>
-							<li><a href="/maintenance">Maintenances</a></li>
-							<li><a href="/about">About us</a></li>
-							<li><a href="/contact">Contact</a></li>
-							<li><a href="/contact">Downloads</a></li>
+							<li><a href="/maintenances">Maintenances</a></li>
+							<li><a href="/aboutUs">About us</a></li>
+							<li><a href="/contacts">Contact</a></li>
 						</ul>
 					</div>
 				</div>

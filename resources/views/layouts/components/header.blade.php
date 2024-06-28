@@ -23,9 +23,8 @@
 						</svg>
 					</div>
 					<ul>
-						<li><a href="about.html">About</a></li>
+						<li><a href="/downloads">Downloads</a></li>
 						<li><a href="faq.html">Faqs</a></li>
-						<li><a href="contact.html">Contact</a></li>
 						<li>
 							<a href="#"><i class="ti-facebook"></i></a>
 						</li>

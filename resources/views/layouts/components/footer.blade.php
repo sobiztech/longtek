@@ -84,11 +84,11 @@
                             <h3>Pages</h3>
                         </div>
                         <ul>
-                            <li><a href="/cctv">CCTVs</a></li>
+                            <li><a href="/cctvs">CCTVs</a></li>
                             <li><a href="/alarms">Alarms</a></li>
-                            <li><a href="/accesscontroller">Access Controller</a></li>
-                            <li><a href="/intercomsystem">Inter Comsystem</a></li>
-                            <li><a href="/maintenance">Maintanace</a></li>
+                            <li><a href="/accessControls">Access Controls</a></li>
+                            <li><a href="/intercomSystems">Intercom Systems</a></li>
+                            <li><a href="/maintenances">Maintanaces</a></li>
                         </ul>
                     </div>
                 </div>

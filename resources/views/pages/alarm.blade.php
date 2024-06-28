@@ -19,8 +19,8 @@
                         <div class="animted-top wow fadeIndown" data-wow-delay="100ms">
                             <span>Longtek Electronics Ltd</span>
                             <br />
-                            <h2>Alarms</h2>
-                            <h3><span>system</span> for your home and office</h3>
+                            <h3><span>Alarms<span></h3>
+                            <h2>for your home and office</h2>
                         </div>
                         <div class="hero-botom wow fadeInUp" data-wow-delay="100ms">
                             <div class="video-item">
@@ -309,7 +309,7 @@
                 </div>
             </div>
             <div class="bottom-text">
-                <span>Bringing Alarm Systems Together to Exceed Expectations.</span>
+                <span>Bringing Alarm Systems Together to Exceed Expectations</span>
             </div>
         </div>
     </div>

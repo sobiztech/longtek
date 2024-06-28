@@ -19,8 +19,8 @@
                         <div class="animted-top wow fadeIndown" data-wow-delay="100ms">
                             <span>Longtek Electronics Ltd</span>
                             <br />
-                            <h2>CCTV</h2>
-                            <h3><span>system</span> for your home and office</h3>
+                            <h3><span>CCTVs<span></h3>
+                            <h2>for your home and office</h2>
                         </div>
                         <div class="hero-botom wow fadeInUp" data-wow-delay="100ms">
                             <div class="video-item">
@@ -81,7 +81,7 @@
 </section>
 
 <!-- ==== AboutSectionS2 start ==== -->
-<section class="about-section-s2 section_space" style="padding: 40px;">
+<section class="about-section-s2 section_space" style="padding: 100px;">
     <div class="shape">
         <img src="assets/images/about/shape-1.png" alt="" />
     </div>
@@ -314,7 +314,7 @@
                 </div>
             </div>
             <div class="bottom-text">
-                <span>Combine Our CCTV Solutions to Achieve Unparalleled Security.</span>
+                <span>Combine Our CCTV Solutions to Achieve Unparalleled Security</span>
             </div>
         </div>
     </div>
