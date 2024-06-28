@@ -28,16 +28,6 @@
 							</li>
 							<li><a href="/maintenance">Maintenances</a></li>
 							<li><a href="/about">About us</a></li>
-							<li>
-								<a href="projects.html">Portfolio</a>
-								<span class="submenu-open"></span>
-								<ul class="submenu">
-									<li><a href="proejcts.html">Proejcts</a></li>
-									<li>
-										<a href="projects-single.html">Proejcts Single</a>
-									</li>
-								</ul>
-							</li>
 							<li><a href="/contact">Contact</a></li>
 							<li><a href="/contact">Downloads</a></li>
 						</ul>

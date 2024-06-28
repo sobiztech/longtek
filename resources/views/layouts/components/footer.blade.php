@@ -53,6 +53,14 @@
                             Longtek Electronics (Europe) Ltd is located in Enfield Town, England, and was founded in 2004.
                             This business is working in the following industry: Wholesale of machinery.
                         </p>
+                    </div>
+                </div>
+              
+                <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="widget about_widget">
+                        <div class="widget_title">
+                            <h3>Contacts</h3>
+                        </div>
                         <ul>
                             <li>
                                 <img src="assets/images/ft-icon/mail.svg" alt="" />
@@ -69,32 +77,18 @@
                         </ul>
                     </div>
                 </div>
+
                 <div class="col col-lg-2 col-md-6 col-sm-12 col-12">
                     <div class="widget link_widget">
                         <div class="widget_title">
-                            <h3>Services Req</h3>
+                            <h3>Pages</h3>
                         </div>
                         <ul>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Our Team</a></li>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog Insights</a></li>
-                            <li><a href="#">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
-                    <div class="widget instagram">
-                        <div class="widget_title">
-                            <h3>Gallery</h3>
-                        </div>
-                        <ul>
-                            <li><img src="assets/images/instagram/1.jpg" alt="" /></li>
-                            <li><img src="assets/images/instagram/2.jpg" alt="" /></li>
-                            <li><img src="assets/images/instagram/3.jpg" alt="" /></li>
-                            <li><img src="assets/images/instagram/4.jpg" alt="" /></li>
-                            <li><img src="assets/images/instagram/5.jpg" alt="" /></li>
-                            <li><img src="assets/images/instagram/6.jpg" alt="" /></li>
+                            <li><a href="/cctv">CCTVs</a></li>
+                            <li><a href="/alarms">Alarms</a></li>
+                            <li><a href="/accesscontroller">Access Controller</a></li>
+                            <li><a href="/intercomsystem">Inter Comsystem</a></li>
+                            <li><a href="/maintenance">Maintanace</a></li>
                         </ul>
                     </div>
                 </div>

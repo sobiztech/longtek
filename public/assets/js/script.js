@@ -179,7 +179,7 @@
     $(".brand-slider-s2").owlCarousel({
       autoplay: false,
       smartSpeed: 300,
-      loop: true,
+      loop: false,
       autoplayHoverPause: true,
       dots: false,
       arrows: false,
@@ -339,7 +339,7 @@
   /*project-slider*/
   if ($(".project-slider").length) {
     $(".project-slider").owlCarousel({
-      // autoplay: false,
+      autoplay: true,
       // smartSpeed: 300,
       loop: true,
       autoplayHoverPause: true,
