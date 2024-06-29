@@ -24,7 +24,7 @@
 					</div>
 					<ul>
 						<li><a href="/downloads">Downloads</a></li>
-						<li><a href="faq.html">Faqs</a></li>
+						<li><a href="/faqs">Faqs</a></li>
 						<li>
 							<a href="#"><i class="ti-facebook"></i></a>
 						</li>

@@ -15,7 +15,7 @@
                     <span>Longtek Electronics Ltd</span>
                     <h2>Contact Us</h2>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/home">Home</a></li>
                         <li>Contact</li>
                     </ul>
                 </div>

@@ -49,3 +49,21 @@ Route::get('/maintenances', function () {
     return view('pages.maintenance');
 });
 
+Route::get('/faqs', function () {
+    return view('pages.faq');
+});
+
+
+// sub-Maintenance
+Route::get('/cctvMaintenance', function () {
+    return view('pages.subMaintanace.cctvMaintenance');
+});
+Route::get('/alarmMaintenance', function () {
+    return view('pages.subMaintanace.alarmMaintenance');
+});
+Route::get('/accessControlMaintenance', function () {
+    return view('pages.subMaintanace.accessControlMaintenance');
+});
+Route::get('/intercomSystemMaintenance', function () {
+    return view('pages.subMaintanace.intercomSystemMaintenance');
+});
