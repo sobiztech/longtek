@@ -181,8 +181,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-8">
-                <!-- content shown -->
+            <div class="col-lg-8 subMaintenance">
+                <!-- subMaintenance content shown -->
             </div>
         </div>
     </div>

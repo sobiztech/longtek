@@ -18,7 +18,7 @@
                 url: url,
                 type: 'GET',
                 success: function(response) {
-                    $('.col-lg-8').html(response);
+                    $('.subMaintenance').html(response);
                 },
                 error: function(xhr, status, error) {
                     console.error('An error occurred while loading the content:', error);

@@ -17,28 +17,16 @@ Route::get('/', function () {
     return view('pages.index');
 });
 
-Route::get('/aboutUs', function () {
-    return view('pages.about');
-});
-
-Route::get('/accessControls', function () {
-    return view('pages.accesscontrol');
+Route::get('/cctvs', function () {
+    return view('pages.cctv');
 });
 
 Route::get('/alarms', function () {
     return view('pages.alarm');
 });
 
-Route::get('/cctvs', function () {
-    return view('pages.cctv');
-});
-
-Route::get('/contacts', function () {
-    return view('pages.contact');
-});
-
-Route::get('/downloads', function () {
-    return view('pages.download');
+Route::get('/accessControls', function () {
+    return view('pages.accesscontrol');
 });
 
 Route::get('/intercomSystems', function () {
@@ -47,6 +35,18 @@ Route::get('/intercomSystems', function () {
 
 Route::get('/maintenances', function () {
     return view('pages.maintenance');
+});
+
+Route::get('/aboutUs', function () {
+    return view('pages.about');
+});
+
+Route::get('/contacts', function () {
+    return view('pages.contact');
+});
+
+Route::get('/downloads', function () {
+    return view('pages.download');
 });
 
 Route::get('/faqs', function () {

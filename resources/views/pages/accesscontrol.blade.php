@@ -307,7 +307,7 @@
         <div class="brand-wrap brand-slider-s2 owl-carousel" style="display: flex; justify-content: center; width: 100%;">
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/paxton-access control.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/paxton-access-control.png" alt="" style="display: block; margin: auto;" />
                 </div>
             </div>
         </div>

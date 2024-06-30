@@ -24,10 +24,10 @@
                         </div>
                         <div class="hero-botom wow fadeInUp" data-wow-delay="100ms">
                             <div class="hero-btn" style="margin-right: 20px;">
-                                <a href="/cctvs" class="btn_primary">CCTVs <span></span></a>
+                                <a href="/cctvs" target="_blank" class="btn_primary">CCTVs <span></span></a>
                             </div>
                             <div class="hero-btn">
-                                <a href="/alarms" class="btn_primary">Alarms<span></span></a>
+                                <a href="/alarms" target="_blank" class="btn_primary">Alarms<span></span></a>
                             </div>
                             <div class="video-item">
                                 <a href="https://www.youtube.com/watch?v=pBFQdxA-apI" class="video-btn popup-youtube" data-type="iframe"></a>
@@ -35,12 +35,11 @@
                         </div>
                         <div class="hero-botom wow fadeInUp" data-wow-delay="100ms">
                             <div class="hero-btn" style="margin-right: 20px;">
-                                <a href="/intercomSystems" class="btn_primary">Intercom Systems<span></span></a>
+                                <a href="/intercomSystems" target="_blank" class="btn_primary">Intercom Systems<span></span></a>
                             </div>
                             <div class="hero-btn">
-                                <a href="/accessControls" class="btn_primary">Access Controls<span></span></a>
-                            </div>
-                            
+                                <a href="/accessControls" target="_blank" class="btn_primary">Access Controls<span></span></a>
+                            </div>                          
                         </div>
                     </div>
                 </div>
