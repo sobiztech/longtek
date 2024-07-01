@@ -323,7 +323,7 @@
                     <div class="top_title">
                         <span>
                             <img src="assets/images/title-shap-s2.png" alt="" />
-                            LONGTEK ELECTRONICS LTD
+                            Longtek Electronics Ltd
                         </span>
                         <h2>Do You Need Help With Maintenance</h2>
                         <p>
@@ -389,7 +389,7 @@
             <div class="col-lg-6 col-12">
                 <div class="video-left">
                     <div class="top_title">
-                        <span><img src="assets/images/title-shap.png" alt="" />LONGTEK ELECTRONICS LTD</span>
+                        <span><img src="assets/images/title-shap.png" alt="" />Longtek Electronics Ltd</span>
                         <h2>See Our Working Process How We Manage</h2>
                     </div>
                 </div>

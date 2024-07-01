@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col col-xs-12">
                 <div class="breadcumb-wrap">
-                    <span>LONGTEK ELECTRONICS LTD</span>
+                    <span>Longtek Electronics Ltd</span>
                     <h2>FAQ</h2>
                     <ul>
                         <li><a href="index.html">Home</a></li>
@@ -39,7 +39,7 @@
             <div class="faq--wrap">
                 <div class="top_title" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
                     <span style="display: flex; align-items: center; justify-content: center; font-size: 1.2em; margin-bottom: 10px;">
-                        <img src="assets/images/title-shap-s2.png" alt="" style="margin-right: 10px; vertical-align: middle;" /> LONGTEK ELECTRONICS LTD
+                        <img src="assets/images/title-shap-s2.png" alt="" style="margin-right: 10px; vertical-align: middle;" /> Longtek Electronics Ltd
                     </span>
                     <h2>Frequently Questions & Asking Zone Everyone</h2>
                 </div>

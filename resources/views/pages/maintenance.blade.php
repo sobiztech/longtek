@@ -14,7 +14,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="video-left">
                         <div class="top_title">
-                            <span><img src="assets/images/title-shap.png" alt="" />LONGTEK ELECTRONICS LTD</span>
+                            <span><img src="assets/images/title-shap.png" alt="" />Longtek Electronics Ltd</span>
                             <h2> Do You Need Help to <span>Maintenances</span></h2><h4> for your CCTVs, Alarms, Access Controls and Intercom System</h4>
                             </h2>
                         </div>

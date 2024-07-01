@@ -56,7 +56,7 @@
                     <div class="top_title">
                         <span>
                             <img src="assets/images/title-shap.png" alt="" />
-                            LONGTEK ELECTRONICS LTD
+                            Longtek Electronics Ltd
                         </span>
                         <h2>Welcome to Longtek Electronics Ltd</h2>
                         <p style="text-align: justify;">
@@ -200,7 +200,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-12">
                 <div class="top_title">
-                    <span><img src="assets/images/title-shap.png" alt="" />LONGTEK ELECTRONICS LTD</span>
+                    <span><img src="assets/images/title-shap.png" alt="" />Longtek Electronics Ltd</span>
                     <h2>Our Expertise</h2>
                 </div>
             </div>
