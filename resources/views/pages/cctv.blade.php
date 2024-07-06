@@ -9,7 +9,7 @@
 <!-- ==== HeroSectionS3 start ==== -->
 <section class="hero-section">
     <div class="bg-img">
-        <img src="assets/images/slider/slide-2.jpg" alt="" />
+        <img src="assets/images/slider/cctv-slider.jpg" alt="" />
     </div>
     <div class="container">
         <div class="hero-wrap">
@@ -90,13 +90,13 @@
             <div class="col-lg-6 col-12 wow fadeInLeft" data-wow-delay="300ms">
                 <div class="about-image">
                     <div class="image-1">
-                        <img src="assets/images/about/3.jpg" alt="" />
+                        <img src="assets/images/about/cctv-longtek.jpg" alt="" />
                         <div class="image-shape">
                             <img src="assets/images/about/shape-3.png" alt="" />
                         </div>
                     </div>
                     <div class="image-2">
-                        <img src="assets/images/about/4.jpg" alt="" />
+                        <img src="assets/images/about/cctv-installing.jpg" alt="" />
                     </div>
                     <div class="item">
                         <p>Services</p>
@@ -173,7 +173,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/1.jpg" alt="" />
+                            <img src="assets/images/catagroeis/commercial-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -190,7 +190,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/2.jpg" alt="" />
+                            <img src="assets/images/catagroeis/residential-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -207,7 +207,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/3.jpg" alt="" />
+                            <img src="assets/images/catagroeis/enterprice-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -249,7 +249,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/bullet-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/bullet-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Bullet CCTV</a></h6>
                     </div>
@@ -257,7 +257,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/dome-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/dome-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Dome CCTV</a></h6>
                     </div>
@@ -265,7 +265,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/hidden-covert-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/hidden-covert-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Hidden/Covert CCTV</a></h6>
                     </div>
@@ -273,7 +273,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/infrared-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/infrared-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Infrared CCTV</a></h6>
                     </div>
@@ -283,7 +283,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/box-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/box-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Box CCTV</a></h6>
                     </div>
@@ -291,7 +291,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/outdoor-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/outdoor-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Outdoor CCTV</a></h6>
                     </div>
@@ -299,7 +299,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/ptz-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/ptz-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">PTZ CCTV</a></h6>
                     </div>
@@ -307,7 +307,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/wireless-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/wireless-cctv-security-camara.png" alt="" />
                         </div>
                         <h6><a href="#">Wireless CCTV</a></h6>
                     </div>
@@ -359,7 +359,7 @@
                     </div>
                     <div class="item">
                         <div class="images">
-                            <img src="assets/images/call-message/1.jpg" alt="" />
+                            <img src="assets/images/call-message/call-longtek.jpg" alt="" />
                         </div>
                         <ul>
                             <li>Professional Installation</li>
@@ -375,9 +375,6 @@
                     <div class="image wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <img src="assets/images/call-message/2.png" alt="" />
                         <div class="round"></div>
-                        <div class="sing">
-                            <img src="assets/images/call-message/singe.png" alt="" />
-                        </div>
                     </div>
 
                     <div class="call-message">

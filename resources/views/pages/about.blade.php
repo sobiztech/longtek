@@ -31,7 +31,7 @@
             <div class="col-lg-6 col-12 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2500ms">
                 <div class="about-left-wrap">
                     <div class="image-on">
-                        <img src="assets/images/about/1.jpg" alt="" />
+                        <img src="assets/images/about/longtek-electronics-europe-ltd.jpg" alt="" />
                         <div class="quate-on">
                             <div class="info">
                                 <h3>
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <div class="image-two">
-                        <img src="assets/images/about/2.jpg" alt="" />
+                        <img src="assets/images/about/aboutus-longtek-electronics-europe-ltd.jpg" alt="" />
                         <div class="quate-two">
                             <div class="info">
                                 <h3><span class="count">20</span>+</h3>
@@ -305,12 +305,6 @@
             <path d="M82.4727 20.7287C84.1846 16.6601 81.5444 12.3696 85.7753 8.6391C86.1472 9.73254 86.4577 10.4223 86.4838 11.0446C86.9491 18.613 87.4349 26.3159 87.7683 33.9178C87.8204 35.1624 87.5584 37.0458 86.7721 37.7347C85.2552 39.0286 84.03 37.7327 83.0335 36.5884C79.8152 33.0038 76.4649 29.4528 73.1704 25.8177C75.8548 24.0874 75.8548 24.0874 82.1722 29.1206C79.4233 13.7471 64.7753 6.21877 50.768 13.272C51.389 14.6515 52.0658 15.947 52.6868 17.3265C54.3975 21.3641 54.8235 25.5184 53.3255 30.0917C52.2475 33.3704 50.2901 35.8244 46.9141 36.6124C43.462 37.3498 41.2105 35.616 39.4963 32.907C35.7424 27.1526 36.5524 20.3083 41.6904 14.8799C42.3448 14.2245 42.8466 13.468 43.6478 12.4259C36.9493 7.1402 29.3902 4.30926 20.7792 5.3793C7.44624 6.95042 2.7363 18.3495 2.90436 28.0199C2.88028 29.2139 3.19641 30.3914 3.35086 32.3087C1.1552 30.4908 0.827837 28.3379 0.576703 26.2355C-0.463131 18.0444 4.26926 8.59623 11.5564 4.22893C16.2149 1.50785 21.0985 0.266905 26.1719 0.724702C33.6118 1.41968 40.3529 3.82957 45.949 8.62676C46.503 9.11488 47.1128 9.51895 47.8193 10.1081C54.4429 7.23709 61.2096 5.308 68.1738 7.38169C74.8739 9.52247 78.3638 15.344 82.4727 20.7287ZM46.7285 15.5563C40.4415 19.7393 38.6815 26.1961 42.3479 30.9246C43.2124 32.1025 44.9247 32.9951 46.3617 32.9793C48.3472 32.964 49.4216 31.0139 49.8713 29.0129C51.2113 23.8508 49.8761 19.5781 46.7285 15.5563Z" fill="#FFB302" />
         </svg>
     </div>
-    <div class="left-image">
-        <img src="assets/images/testiminial/img-2.jpg" alt="" />
-    </div>
-    <div class="right-image">
-        <img src="assets/images/testiminial/img-4.jpg" alt="" />
-    </div>
     <div class="feed">
         <img src="assets/images/testiminial/feedback.svg" alt="" />
         <span>Feedback</span>
@@ -420,7 +414,7 @@
                         <div class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">
                             <div class="content">
                                 <div class="image">
-                                    <img src="assets/images/testiminial/img-1.jpg" alt="" />
+                                    <img src="assets/images/testiminial/3.jpg" alt="" />
                                 </div>
                                 <div class="text">Director</div>
                             </div>
@@ -430,7 +424,7 @@
                         <div class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">
                             <div class="content">
                                 <div class="image">
-                                    <img src="assets/images/testiminial/img-2.jpg" alt="" />
+                                    <img src="assets/images/testiminial/4.jpg" alt="" />
                                 </div>
                                 <div class="text">Secretary</div>
                             </div>

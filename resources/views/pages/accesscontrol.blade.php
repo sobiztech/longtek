@@ -9,7 +9,7 @@
 <!-- ==== HeroSectionS3 start ==== -->
 <section class="hero-section">
     <div class="bg-img">
-        <img src="assets/images/slider/slide-2.jpg" alt="" />
+        <img src="assets/images/slider/access-control.jpg" alt="" />
     </div>
     <div class="container">
         <div class="hero-wrap">
@@ -186,7 +186,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/1.jpg" alt="" />
+                            <img src="assets/images/catagroeis/commercial-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -203,7 +203,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/2.jpg" alt="" />
+                            <img src="assets/images/catagroeis/residential-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -220,7 +220,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/3.jpg" alt="" />
+                            <img src="assets/images/catagroeis/enterprice-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -261,7 +261,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/biometric-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/biometric-access-control-systems.png" alt="" />
                         </div>
                         <h6><a href="#">Biometric Access Control Systems</a></h6>
                     </div>
@@ -269,7 +269,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/card-based-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/card-based-access-control-systems.png" alt="" />
                         </div>
                         <h6><a href="#">Card Access Control Systems</a></h6>
                     </div>
@@ -277,7 +277,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/keypad-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/keypad-access-control-systems.png" alt="" />
                         </div>
                         <h6><a href="#">Keypad Access Control Systems</a></h6>
                     </div>
@@ -285,7 +285,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/electronic-and-smart-locks-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/electronic-and-smart-locks-access-control-systems.png" alt="" />
                         </div>
                         <h6><a href="#">Smart Locks Access Control Systems</a></h6>
                     </div>
@@ -333,7 +333,7 @@
                     </div>
                     <div class="item">
                         <div class="images">
-                            <img src="assets/images/call-message/1.jpg" alt="" />
+                            <img src="assets/images/call-message/call-longtek.jpg" alt="" />
                         </div>
                         <ul>
                             <li>Enhanced Security</li>
@@ -348,9 +348,6 @@
                     <div class="image wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <img src="assets/images/call-message/2.png" alt="" />
                         <div class="round"></div>
-                        <div class="sing">
-                            <img src="assets/images/call-message/singe.png" alt="" />
-                        </div>
                     </div>
 
                     <div class="call-message">

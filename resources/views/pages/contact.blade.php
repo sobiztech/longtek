@@ -85,37 +85,6 @@
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2475.0631166856583!2d-0.05747022406423199!3d51.65868077184815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761f0c414fc051%3A0xacc7a4c810d5c92f!2s12%20Bishops%20Close%2C%20Enfield%20EN1%203QJ%2C%20UK!5e0!3m2!1sen!2slk!4v1719382800088!5m2!1sen!2slk" height="580" style="border: 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
-            <div class="col-lg-12">
-                <form class="new-coment-form contact-validation-active">
-                    <h5 class="comment-title">Drop Us a Line</h5>
-                    <p>Your email address will not be published. Required fields are marked *</p>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-12">
-                            <input type="text" name="name" id="name" placeholder="Enter your name*" required />
-                        </div>
-                        <div class="col-lg-6 col-md-12">
-                            <input type="email" name="email" id="email" placeholder="Enter your email*" required />
-                        </div>
-                        <div class="col-lg-6 col-md-12">
-                            <select name="service" id="service" required>
-                                <option value="">Select Service Type*</option>
-                                <option value="CCTV">CCTV</option>
-                                <option value="Access Control">Access Control</option>
-                                <option value="Intercom Systems">Intercom System</option>
-                                <option value="Maintenances">Maintenance</option>
-                            </select>
-                        </div>
-                        <div class="col-lg-6 col-md-12">
-                            <input type="text" name="address" id="address" placeholder="Enter Phone Number*" required />
-                        </div>
-                        <div class="col-lg-12 col-md-12">
-                            <textarea name="note" id="note" placeholder="Enter your Message*" required></textarea>
-                        </div>
-                    </div>
-                    <button class="btn_primary" type="submit">Post a Comment</button>
-                </form>
-
-            </div>
         </div>
     </div>
 </section>

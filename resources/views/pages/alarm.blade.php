@@ -9,7 +9,7 @@
 <!-- ==== HeroSectionS3 start ==== -->
 <section class="hero-section">
     <div class="bg-img">
-        <img src="assets/images/slider/slide-2.jpg" alt="" />
+        <img src="assets/images/slider/fire-alarm.jpg" alt="" />
     </div>
     <div class="container">
         <div class="hero-wrap">
@@ -113,19 +113,19 @@
         <div class="project-slider owl-carousel">
             <div class="item">
                 <div class="image">
-                    <img src="assets/images/project/6.jpg" alt="" />
+                    <img src="assets/images/project/burglar-alarm.jpg" alt="" />
                 </div>
                 <div class="text">
-                    <span>Alarm-Type 01</span>
+                    <span>Alarm Type 01</span>
                     <h2><a>Burglar Alarm</a></h2>
                 </div>
             </div>
             <div class="item">
                 <div class="image">
-                    <img src="assets/images/project/5.jpg" alt="" />
+                    <img src="assets/images/project/fire-alarm.jpg" alt="" />
                 </div>
                 <div class="text">
-                    <span>Alarm-Type 02</span>
+                    <span>Alarm Type 02</span>
                     <h2><a>Fire Alarm</a></h2>
                 </div>
             </div>
@@ -167,7 +167,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/1.jpg" alt="" />
+                            <img src="assets/images/catagroeis/commercial-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -183,7 +183,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/2.jpg" alt="" />
+                            <img src="assets/images/catagroeis/residential-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -200,7 +200,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/3.jpg" alt="" />
+                            <img src="assets/images/catagroeis/enterprice-service.jpg" alt="" />
                         </div>
                     </div>
                     <div class="text">
@@ -243,7 +243,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/wired-burglar-alarm.png" alt="" />
+                            <img src="assets/images/services/alarm/wired-burglar-alarm.png" alt="" />
                         </div>
                         <h6><a href="#">Wired Alarms</a></h6>
                     </div>
@@ -251,7 +251,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/wireless-burglar-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/wireless-burglar-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Wireless Alarms</a></h6>
                     </div>
@@ -259,7 +259,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/audible-sound-only-burglar-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/audible-sound-only-burglar-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Audible (Sound Only) Burglar Alarms</a></h6>
                     </div>
@@ -267,7 +267,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/remotely-monitored-burglar-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/remotely-monitored-burglar-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Remotely Monitored Burglar Alarms</a></h6>
                     </div>
@@ -278,7 +278,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/ionization-smoke-fire-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/ionization-smoke-fire-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Ionization Smoke Alarms</a></h6>
                     </div>
@@ -286,7 +286,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/photoelectric-smoke-fire-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/photoelectric-smoke-fire-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Photoelectric Smoke Alarms</a></h6>
                     </div>
@@ -294,7 +294,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/heat-detectors-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/heat-detectors-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Heat Detectors</a></h6>
                     </div>
@@ -302,7 +302,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/team/carbon-monoxide-alarms-smoke-fire-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/carbon-monoxide-alarms-smoke-fire-alarms.png" alt="" />
                         </div>
                         <h6><a href="#">Carbon Monoxide (CO) Alarms</a></h6>
                     </div>
@@ -363,7 +363,7 @@
                     </div>
                     <div class="item">
                         <div class="images">
-                            <img src="assets/images/call-message/1.jpg" alt="" />
+                            <img src="assets/images/call-message/call-longtek.jpg" alt="" />
                         </div>
                         <ul>
                             <li>Burglar & Fire Alarm System Maintenance</li>
@@ -379,9 +379,6 @@
                     <div class="image wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <img src="assets/images/call-message/2.png" alt="" />
                         <div class="round"></div>
-                        <div class="sing">
-                            <img src="assets/images/call-message/singe.png" alt="" />
-                        </div>
                     </div>
 
                     <div class="call-message">

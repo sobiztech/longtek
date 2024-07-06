@@ -14,7 +14,7 @@
                     <span>Longtek Electronics Ltd</span>
                     <h2>FAQ</h2>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>FAQ</li>
                     </ul>
                 </div>
@@ -30,9 +30,6 @@
     </div>
     <div class="shape-2">
         <img src="assets/images/faq-shape-2.png" alt="" />
-    </div>
-    <div class="image wow fadeInLeft animated" data-wow-delay="100ms" data-wow-duration="2300ms">
-        <img src="assets/images/faq-img.png" alt="" />
     </div>
     <div class="container">
         <div class="row">

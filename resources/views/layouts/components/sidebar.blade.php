@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-lg-2 col-10">
 					<a href="/" class="logo">
-						<img src="assets/images/logo.svg" alt="">
+						<img src="assets/images/longtek_electronics_ltd.png" alt="">
 					</a>
 				</div>
 				<div class="col-lg-6 col-2">
@@ -35,7 +35,7 @@
 				<div class="col-lg-4">
 					<div class="header-right">
 						<div class="close-form">
-							<a class="btn_primary" href="contact.html">Get a Quate</a>
+							<a class="btn_primary" href="/quote">Get a Quate</a>
 						</div>
 					</div>
 				</div>

@@ -53,6 +53,10 @@ Route::get('/faqs', function () {
     return view('pages.faq');
 });
 
+Route::get('/quote', function () {
+    return view('pages.quote');
+});
+
 
 // sub-Maintenance
 Route::get('/cctvMaintenance', function () {

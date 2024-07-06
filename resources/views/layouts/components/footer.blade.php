@@ -21,7 +21,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="right-content">
                         <div class="right-btn">
-                            <a href="contact.html" class="btn_primary">Get a quoate</a>
+                            <a href="/quote" class="btn_primary">Get a quoate</a>
                         </div>
                         <a href="tel:+44 800 511 8611" class="right-coll-btn">
                             <div class="icon">
@@ -29,7 +29,7 @@
                             </div>
                             <div class="text">
                                 <span>Get a free quote</span>
-                                <h3>+44 800 511 8611</h3>
+                                <h3 href="tel:+448005118611">+44 800 511 8611</h3>
                             </div>
                         </a>
                     </div>
@@ -46,9 +46,6 @@
             <div class="row">
                 <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="widget about_widget">
-                        <div class="logo widget-title">
-                            <img src="assets/images/logo-2.svg" alt="blog" />
-                        </div>
                         <p>
                             Longtek Electronics (Europe) Ltd is located in Enfield Town, England, and was founded in 2004.
                             This business is working in the following industry: Wholesale of machinery.

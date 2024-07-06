@@ -1,6 +1,6 @@
 <div class="service-details-wrap">
     <div class="service-thumbnil">
-        <img src="assets/images/single-service/02.jpg" alt="" />
+        <img src="assets/images/maintenanace/intercom-system-maintenanace.jpg" alt="" />
     </div>
     <div class="tex-wrapper">
         <h5 class="title">Intercom System Maintenance Services by Longtek Electronics Ltd</h5>
@@ -51,16 +51,16 @@
         </p>
         <div class="checklist-img row">
             <div class="col-lg-8 col-md-6 col-12">
-                <img src="assets/images/single-service/04.jpg" alt="" />
+                <img src="assets/images/maintenanace/04.jpg" alt="" />
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <img src="assets/images/single-service/05.jpg" alt="" />
+                <img src="assets/images/maintenanace/05.jpg" alt="" />
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <img src="assets/images/single-service/06.jpg" alt="" />
+                <img src="assets/images/maintenanace/06.jpg" alt="" />
             </div>
             <div class="col-lg-8 col-md-6 col-12">
-                <img src="assets/images/single-service/07.jpg" alt="" />
+                <img src="assets/images/maintenanace/07.jpg" alt="" />
             </div>
         </div>
     </div>

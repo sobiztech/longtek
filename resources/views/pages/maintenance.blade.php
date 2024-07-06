@@ -86,7 +86,7 @@
                                     <span>+44 800 511 8611</span>
                                 </div>
                             </a>
-                            <a href="contact.html" class="btn_primary">Get a quoate</a>
+                            <a href="/quote" class="btn_primary">Get a quoate</a>
                         </div>
                     </div>
                 </div>
@@ -171,12 +171,12 @@
                     </ul>
                     <div class="service-cta">
                         <div class="icon">
-                            <img src="assets/images/single-service/phone-call.svg" alt="" />
+                            <img src="assets/images/maintenanace/phone-call.svg" alt="" />
                         </div>
                         <div class="text">
                             <h5>Looking for help from Longtek?</h5>
                             <p>Call anytime</p>
-                            <a href="tel:+871382023">+44 800 511 8611</a>
+                            <a href="tel:+448005118611">+44 800 511 8611</a>
                         </div>
                     </div>
                 </div>
