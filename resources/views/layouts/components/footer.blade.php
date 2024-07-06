@@ -52,7 +52,7 @@
                         </p>
                     </div>
                 </div>
-              
+
                 <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="widget about_widget">
                         <div class="widget_title">
@@ -70,6 +70,10 @@
                             <li>
                                 <img src="assets/images/ft-icon/location.svg" alt="" />
                                 12 Bishops Close, Enfield EN1 3QJ, UK
+                            </li>
+                            <li>
+                                <a href="https://web.facebook.com/people/Longtek-Electronics-Ltd/100071095517682"><i class="ti-facebook"></i></a>
+                                Longtek Electronics Ltd
                             </li>
                         </ul>
                     </div>
@@ -91,7 +95,8 @@
                 </div>
 
                 <div class="col col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="widget newsletter">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4950.126208449317!2d-0.054895!3d51.658681!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761f0c414fc051%3A0xacc7a4c810d5c92f!2s12%20Bishops%20Close%2C%20Enfield%20EN1%203QJ%2C%20UK!5e0!3m2!1sen!2slk!4v1720278554202!5m2!1sen!2slk" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <!-- <div class="widget newsletter">
                         <div class="widget_title">
                             <h3>newsletter</h3>
                         </div>
@@ -103,7 +108,7 @@
                         <div class="social_widget">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="ti-facebook"></i></a>
+                                    <a href="https://web.facebook.com/people/Longtek-Electronics-Ltd/100071095517682"><i class="ti-facebook"></i></a>
                                 </li>
                                 <li>
                                     <a href="#"><i class="ti-twitter-alt"></i></a>
@@ -116,7 +121,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
