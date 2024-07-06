@@ -11,6 +11,10 @@
 <script src="assets/js/jquery.nice-select.js"></script>
 <script src="assets/js/script.js"></script>
 
+<!-- Sweet-alert js  -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+
 <script>
     $(document).ready(function() {
         function loadContent(url) {
@@ -56,5 +60,235 @@
             $('.service-link').removeClass('active');
             $(this).addClass('active');
         });
+    });
+</script>
+
+<script>
+    var scriptURL = "{{ config('custom.appscript_quote_excel') }}";
+    const form = document.forms['new-quote-form'];
+
+    form.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if (form.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Quote is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURL, {
+                    method: 'POST',
+                    body: new FormData(form)
+                })
+                .then(response => {
+                    swal("Thanks!", "Your quote has been successfully submitted.", "success");
+                })
+                .then(() => {
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000);
+                })
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    swal("wrong", "Some information is missing.", "error");
+                });
+        } else {
+            swal("wrong", "Some information is missing.", "error");
+        }
+    });
+
+    // Optional: trigger the success alert manually using this button
+    document.getElementById('swal-success').addEventListener('click', () => {
+        swal("Success", "This is a success alert triggered manually.", "success");
+    });
+</script>
+
+<script>
+    var scriptURL = "{{ config('custom.appscript_quote_excel') }}";
+    const formCCTV = document.forms['new-cctv-form'];
+
+    formCCTV.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if (formCCTV.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURL, {
+                    method: 'POST',
+                    body: new FormData(formCCTV)
+                })
+                .then(response => {
+                    swal("Thanks!", "Your application has been successfully submitted.", "success");
+                })
+                .then(() => {
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000);
+                })
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    swal("wrong", "Some information is missing.", "error");
+                });
+        } else {
+            swal("wrong", "Some information is missing.", "error");
+        }
+    });
+
+    // Optional: trigger the success alert manually using this button
+    document.getElementById('swal-success').addEventListener('click', () => {
+        swal("Success", "This is a success alert triggered manually.", "success");
+    });
+</script>
+
+<script>
+    var scriptURL = "{{ config('custom.appscript_quote_excel') }}";
+    const formAlarm = document.forms['new-alarm-form'];
+
+    formAlarm.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if (formAlarm.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURL, {
+                    method: 'POST',
+                    body: new FormData(formAlarm)
+                })
+                .then(response => {
+                    swal("Thanks!", "Your application has been successfully submitted.", "success");
+                })
+                .then(() => {
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000);
+                })
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    swal("wrong", "Some information is missing.", "error");
+                });
+        } else {
+            swal("wrong", "Some information is missing.", "error");
+        }
+    });
+
+    // Optional: trigger the success alert manually using this button
+    document.getElementById('swal-success').addEventListener('click', () => {
+        swal("Success", "This is a success alert triggered manually.", "success");
+    });
+</script>
+
+<script>
+    var scriptURL = "{{ config('custom.appscript_quote_excel') }}";
+    const formAccessControl = document.forms['new-accessControl-form'];
+
+    formAccessControl.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if (formAccessControl.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURL, {
+                    method: 'POST',
+                    body: new FormData(formAccessControl)
+                })
+                .then(response => {
+                    swal("Thanks!", "Your application has been successfully submitted.", "success");
+                })
+                .then(() => {
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000);
+                })
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    swal("wrong", "Some information is missing.", "error");
+                });
+        } else {
+            swal("wrong", "Some information is missing.", "error");
+        }
+    });
+
+    // Optional: trigger the success alert manually using this button
+    document.getElementById('swal-success').addEventListener('click', () => {
+        swal("Success", "This is a success alert triggered manually.", "success");
+    });
+</script>
+
+<script>
+    var scriptURL = "{{ config('custom.appscript_quote_excel') }}";
+    const formIntercom = document.forms['new-intercom-form'];
+
+    formIntercom.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if (formIntercom.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURL, {
+                    method: 'POST',
+                    body: new FormData(formIntercom)
+                })
+                .then(response => {
+                    swal("Thanks!", "Your application has been successfully submitted.", "success");
+                })
+                .then(() => {
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000);
+                })
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    swal("wrong", "Some information is missing.", "error");
+                });
+        } else {
+            swal("wrong", "Some information is missing.", "error");
+        }
+    });
+
+    // Optional: trigger the success alert manually using this button
+    document.getElementById('swal-success').addEventListener('click', () => {
+        swal("Success", "This is a success alert triggered manually.", "success");
     });
 </script>

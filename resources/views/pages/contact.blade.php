@@ -49,7 +49,7 @@
                         </div>
                         <div class="text">
                             <h5>Mail address</h5>
-                            <p>info@longtek.eu</p>
+                            <p>admin@longtek.co.uk</p>
                         </div>
                     </li>
                     <li class="active">
@@ -75,7 +75,7 @@
                         </div>
                         <div class="text">
                             <h5>Phone number</h5>
-                            <p>+44 800 511 8611</p>
+                            <p>+44 02088050002</p>
                         </div>
                     </li>
                 </ul>

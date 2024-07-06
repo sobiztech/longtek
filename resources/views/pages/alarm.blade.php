@@ -43,11 +43,11 @@
     <div class="container">
         <div class="wraper" data-aos="fade-up" data-aos-duration="500">
             <span>Give Information</span>
-            <form>
+            <form name="new-alarm-form">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="info">
-                            <input type="text" class="form-control" placeholder="Your Name*" />
+                            <input type="text"  name="name" class="form-control" placeholder="Your Name*" />
                             <div class="icon">
                                 <img src="assets/images/quate-info/1.svg" alt="" />
                             </div>
@@ -55,7 +55,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="info">
-                            <input type="email" class="form-control" placeholder="Your Email" />
+                            <input type="email" name="email" class="form-control" placeholder="Your Email" />
                             <div class="icon">
                                 <img src="assets/images/quate-info/2.svg" alt="" />
                             </div>
@@ -63,12 +63,14 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="info">
-                            <input type="text" class="form-control" placeholder="Phone" />
+                            <input type="text" name="phone" class="form-control" placeholder="Phone" />
                             <div class="icon">
                                 <img src="assets/images/quate-info/3.svg" alt="" />
                             </div>
                         </div>
                     </div>
+                    <input type="text" name="service" class="form-control" placeholder="Alarms" value="Alarms" hidden/>
+                    <input type="textarea" name="note" class="form-control" placeholder="Text" value="No Message" hidden/>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="info info-btn">
                             <input type="submit" class="btn_primary" value="Get a quoate" />
@@ -388,7 +390,7 @@
                             </div>
                             <div class="text">
                                 <h3>Have any question ?</h3>
-                                <span>+880 123 456 789</span>
+                                <span>+44 02088050002</span>
                             </div>
                         </div>
                         <div class="sms">
@@ -397,7 +399,7 @@
                             </div>
                             <div class="text">
                                 <h3>Mail any question ?</h3>
-                                <span>helpsupport@gmail.com</span>
+                                <span>admin@longtek.co.uk</span>
                             </div>
                         </div>
                     </div>

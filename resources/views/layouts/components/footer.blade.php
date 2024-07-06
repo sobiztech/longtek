@@ -14,7 +14,7 @@
                             <img src="assets/images/conversation.png" alt="" />
                         </div>
                         <div class="text">
-                            <h3>Contact us at @ <a href="#">info@longtek.eu</a></h3>
+                            <h3>Contact us at @ <a href="#">admin@longtek.co.uk</a></h3>
                         </div>
                     </div>
                 </div>
@@ -23,13 +23,13 @@
                         <div class="right-btn">
                             <a href="/quote" class="btn_primary">Get a quoate</a>
                         </div>
-                        <a href="tel:+44 800 511 8611" class="right-coll-btn">
+                        <a href="tel:+44 02088050002" class="right-coll-btn">
                             <div class="icon">
                                 <img src="assets/images/call.png" alt="" />
                             </div>
                             <div class="text">
                                 <span>Get a free quote</span>
-                                <h3 href="tel:+448005118611">+44 800 511 8611</h3>
+                                <h3 href="tel:+44 02088050002">+44 02088050002</h3>
                             </div>
                         </a>
                     </div>
@@ -61,11 +61,11 @@
                         <ul>
                             <li>
                                 <img src="assets/images/ft-icon/mail.svg" alt="" />
-                                info@longtek.eu
+                                admin@longtek.co.uk
                             </li>
                             <li>
                                 <img src="assets/images/ft-icon/call-2.svg" alt="" />
-                                +44 800 511 8611
+                                +44 02088050002
                             </li>
                             <li>
                                 <img src="assets/images/ft-icon/location.svg" alt="" />

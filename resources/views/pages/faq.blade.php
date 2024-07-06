@@ -67,7 +67,7 @@
                                     <div id="collapseTwoLeft" class="accordion-collapse collapse" aria-labelledby="headingTwoLeft" data-bs-parent="#accordionLeft">
                                         <div class="accordion-body">
                                             <p>
-                                                Yes, we provide emergency repair services for urgent issues with CCTV, alarms, and intercom systems. Please call our emergency hotline at +44 1234 567891 for immediate assistance.
+                                                Yes, we provide emergency repair services for urgent issues with CCTV, alarms, and intercom systems. Please call our emergency hotline at +44 02088050002 for immediate assistance.
                                             </p>
                                         </div>
                                     </div>

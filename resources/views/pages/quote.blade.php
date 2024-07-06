@@ -28,7 +28,7 @@
 <section class="contact-us-section section_space">
     <div class="container">
         <div class="row">
-            <form class="new-coment-form contact-validation-active">
+            <form class="new-coment-form contact-validation-active" name="new-quote-form">
                 <h5 class="comment-title">Drop Us a Line</h5>
                 <p>Your email address will not be published. Required fields are marked *</p>
                 <div class="row">
@@ -41,14 +41,16 @@
                     <div class="col-lg-6 col-md-12">
                         <select name="service" id="service" required>
                             <option value="">Select Service Type*</option>
-                            <option value="CCTV">CCTV</option>
-                            <option value="Access Control">Access Control</option>
-                            <option value="Intercom Systems">Intercom System</option>
-                            <option value="Maintenances">Maintenance</option>
+                            <option value="All">All</option>
+                            <option value="CCTVs">CCTVs</option>
+                            <option value="Alarms">Alarms</option>
+                            <option value="Access Controls">Access Controls</option>
+                            <option value="Intercom Systems">Intercom Systems</option>
+                            <option value="Maintenances">Maintenances</option>
                         </select>
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <input type="text" name="address" id="address" placeholder="Enter Phone Number*" required />
+                        <input type="text" name="phone" id="phone" placeholder="Enter Phone Number*" required />
                     </div>
                     <div class="col-lg-12 col-md-12">
                         <textarea name="note" id="note" placeholder="Enter your Message*" required></textarea>

@@ -53,7 +53,7 @@
                 </div>
             </li>
             <li class="listitem">
-                Get In Touch — phone: +44 800 511 8611
+                Get In Touch — phone: +44 02088050002
                 <div class="shape">
                     <svg width="29" height="31" viewBox="0 0 29 31" fill="none">
                         <path d="M28.365 21.08L15.19 15.345L28.21 9.61L26.195 5.9675L14.6475 14.57L16.1975 0H12.1675L13.7175 14.57L2.17 5.9675L0.155 9.61L13.175 15.345L0 21.08L2.17 24.5675L13.7175 15.965L12.1675 30.69H16.1975L14.6475 15.965L26.195 24.5675L28.365 21.08Z" fill="white" />
@@ -83,7 +83,7 @@
                                 </div>
                                 <div class="text">
                                     <h3>Phone Number</h3>
-                                    <span>+44 800 511 8611</span>
+                                    <span>+44 02088050002</span>
                                 </div>
                             </a>
                             <a href="/quote" class="btn_primary">Get a quoate</a>
@@ -176,7 +176,7 @@
                         <div class="text">
                             <h5>Looking for help from Longtek?</h5>
                             <p>Call anytime</p>
-                            <a href="tel:+448005118611">+44 800 511 8611</a>
+                            <a href="tel:+44 02088050002">+44 02088050002</a>
                         </div>
                     </div>
                 </div>
