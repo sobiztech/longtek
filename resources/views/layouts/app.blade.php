@@ -10,7 +10,7 @@
     the registered office located in Enfield, Greater London. Longtek Electronics Europe Ltd has been running for 19 years. There is currently 1 active 
     director and 1 active secretary according to the latest confirmation statement submitted on 12th April 2024.">
     <link rel="icon" title="Favicon" sizes="16x16" type="image/png" href="assets/images/favicon.png">
-    <title>Longtek Electronics Ltd</title>
+    <title>Longtek Electronics (Europe) Ltd</title>
 
     <!-- CSS here -->
     @include('layouts.components.styles')
@@ -21,7 +21,7 @@
 
     <div class="main_page_wrapper">
 
-        <!-- ==== header start ==== -->
+        <!-- header start -->
         <header class="header_section">
             @include('layouts.components.header')
 

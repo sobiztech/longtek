@@ -119,7 +119,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="300ms">
                     <div class="project-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv.jpg" alt="" />
+                            <img src="assets/images/services/cctv.jpg" alt="CCTV" />
                             <div class="img-link">
                                 <a href="/cctvs"><i class="ti-plus"></i></a>
                             </div>
@@ -140,7 +140,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="300ms">
                     <div class="project-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm.jpg" alt="" />
+                            <img src="assets/images/services/alarm.jpg" alt="Alarm" />
                             <div class="img-link">
                                 <a href="/alarms"><i class="ti-plus"></i></a>
                             </div>
@@ -161,7 +161,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="300ms">
                     <div class="project-single">
                         <div class="image">
-                            <img src="assets/images/services/access_control.jpg" alt="" />
+                            <img src="assets/images/services/access_control.jpg" alt="Access Control" />
                             <div class="img-link">
                                 <a href="/accessControls"><i class="ti-plus"></i></a>
                             </div>
@@ -180,7 +180,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="300ms">
                     <div class="project-single">
                         <div class="image">
-                            <img src="assets/images/services/intercom.jpg" alt="" />
+                            <img src="assets/images/services/intercom.jpg" alt="Intercom Systems" />
                             <div class="img-link">
                                 <a href="/intercomSystems"><i class="ti-plus"></i></a>
                             </div>
@@ -279,32 +279,32 @@
                 <div class="brand-wrap brand-slider owl-carousel">
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/alhua-cctv.png" alt="" />
+                            <img src="assets/images/brand/alhua-cctv.png" alt="Dahua Technology CCTV" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/hikvision-cctv.png" alt="" />
+                            <img src="assets/images/brand/hikvision-cctv.png" alt="Hikvision CCTV" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/honeywell-alarm.png" alt="" />
+                            <img src="assets/images/brand/honeywell-alarm.png" alt="Honeywell Home Alarm" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/paxton-access-control.png" alt="" />
+                            <img src="assets/images/brand/pyronix-alarm.png" alt="Pyronix Alarm " />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/pyronix-alarm.png" alt="" />
+                            <img src="assets/images/brand/texecom-alarm.png" alt="Texecom Alarm" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/texecom-alarm.png" alt="" />
+                            <img src="assets/images/brand/paxton-access-control.png" alt="Paxton Access Control" />
                         </div>
                     </div>
                 </div>
@@ -418,21 +418,11 @@
                     </div>
                     <div class="item">
                         <ul class="retin">
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star-white.png" alt="" />
-                            </li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star-white.png" alt="" /></li>
                         </ul>
                         <div class="text">
                             <h4>Jessica K</h4>
@@ -451,21 +441,11 @@
                     </div>
                     <div class="item">
                         <ul class="retin">
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star-white.png" alt="" />
-                            </li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star-white.png" alt="" /></li>
                         </ul>
                         <div class="text">
                             <h4>Alan B</h4>
@@ -484,21 +464,11 @@
                     </div>
                     <div class="item">
                         <ul class="retin">
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star-white.png" alt="" />
-                            </li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star-white.png" alt="" /></li>
                         </ul>
                         <div class="text">
                             <h4>Karen L</h4>
@@ -517,21 +487,11 @@
                     </div>
                     <div class="item">
                         <ul class="retin">
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star-white.png" alt="" />
-                            </li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star-white.png" alt="" /></li>
                         </ul>
                         <div class="text">
                             <h4>David W</h4>
@@ -550,26 +510,16 @@
                     </div>
                     <div class="item">
                         <ul class="retin">
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star.png" alt="" />
-                            </li>
-                            <li>
-                                <img src="assets/images/testiminial/star-white.png" alt="" />
-                            </li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                            <li><img src="assets/images/testiminial/star-white.png" alt="" /></li>
                         </ul>
                         <div class="text">
-                                <h4>Sophia M</h4>
-                                <!-- <span>Client</span> -->
-                            </div>
+                            <h4>Sophia M</h4>
+                            <!-- <span>Client</span> -->
+                        </div>
                         <a>
                             Longtek Electronics exceeded our expectations with their prompt and efficient service. We needed a complex CCTV system
                             for our facility, and their team handled everything seamlessly. They provided valuable recommendations and ensured the

@@ -9,7 +9,7 @@
 <!-- ==== HeroSectionS3 start ==== -->
 <section class="hero-section">
     <div class="bg-img">
-        <img src="assets/images/slider/access-control.jpg" alt="" />
+        <img src="assets/images/slider/access-control.jpg" alt="Access Control" />
     </div>
     <div class="container">
         <div class="hero-wrap">
@@ -263,7 +263,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/access-control/biometric-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/biometric-access-control-systems.png" alt="Biometric Access Control Systems" />
                         </div>
                         <h6><a href="#">Biometric Access Control Systems</a></h6>
                     </div>
@@ -271,7 +271,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/access-control/card-based-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/card-based-access-control-systems.png" alt="Card Based Access Control Systems" />
                         </div>
                         <h6><a href="#">Card Access Control Systems</a></h6>
                     </div>
@@ -279,7 +279,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/access-control/keypad-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/keypad-access-control-systems.png" alt="Keypad Access Control Systems" />
                         </div>
                         <h6><a href="#">Keypad Access Control Systems</a></h6>
                     </div>
@@ -287,7 +287,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/access-control/electronic-and-smart-locks-access-control-systems.png" alt="" />
+                            <img src="assets/images/services/access-control/electronic-and-smart-locks-access-control-systems.png" alt="Electronic And Smart Locks Access Control Systems" />
                         </div>
                         <h6><a href="#">Smart Locks Access Control Systems</a></h6>
                     </div>
@@ -309,7 +309,7 @@
         <div class="brand-wrap brand-slider-s2 owl-carousel" style="display: flex; justify-content: center; width: 100%;">
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/paxton-access-control.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/paxton-access-control.png" alt="Paxton Access Control" style="display: block; margin: auto;" />
                 </div>
             </div>
         </div>

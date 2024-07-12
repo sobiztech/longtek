@@ -9,7 +9,7 @@
 <!-- ==== HeroSectionS3 start ==== -->
 <section class="hero-section">
     <div class="bg-img">
-        <img src="assets/images/slider/intercom-system.jpg" alt="" />
+        <img src="assets/images/slider/intercom-system.jpg" alt="Intercom System" />
     </div>
     <div class="container">
         <div class="hero-wrap">
@@ -148,7 +148,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/commercial-service.jpg" alt="" />
+                            <img src="assets/images/catagroeis/commercial-service.jpg" alt="Commercial Service" />
                         </div>
                     </div>
                     <div class="text">
@@ -164,7 +164,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/residential-service.jpg" alt="" />
+                            <img src="assets/images/catagroeis/residential-service.jpg" alt="Residential Service" />
                         </div>
                     </div>
                     <div class="text">
@@ -180,7 +180,7 @@
                 <div class="item">
                     <div class="icon">
                         <div class="image">
-                            <img src="assets/images/catagroeis/enterprice-service.jpg" alt="" />
+                            <img src="assets/images/catagroeis/enterprice-service.jpg" alt="Enterprice Service.jpg" />
                         </div>
                     </div>
                     <div class="text">
@@ -221,7 +221,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/intercom-system/wired-intercom-systems.png" alt="" />
+                            <img src="assets/images/services/intercom-system/wired-intercom-systems.png" alt="Wired Intercom Systems" />
                         </div>
                         <h6><a href="#">Wired Intercom Systems</a></h6>
                     </div>
@@ -229,7 +229,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/intercom-system/wireless-intercom-systems.png" alt="" />
+                            <img src="assets/images/services/intercom-system/wireless-intercom-systems.png" alt="Wireless Intercom Systems" />
                         </div>
                         <h6><a href="#">Wireless Intercom Systems</a></h6>
                     </div>
@@ -237,7 +237,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/intercom-system/video-intercom-systems.png" alt="" />
+                            <img src="assets/images/services/intercom-system/video-intercom-systems.png" alt="Video Intercom Systems" />
                         </div>
                         <h6><a href="#">Video Intercom Systems</a></h6>
                     </div>
@@ -245,7 +245,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/intercom-system/audio-intercom-systems.png" alt="" />
+                            <img src="assets/images/services/intercom-system/audio-intercom-systems.png" alt="Audio Intercom Systems" />
                         </div>
                         <h6><a href="#">Audio Intercom Systems</a></h6>
                     </div>

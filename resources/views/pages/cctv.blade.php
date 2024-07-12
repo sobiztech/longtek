@@ -92,13 +92,13 @@
             <div class="col-lg-6 col-12 wow fadeInLeft" data-wow-delay="300ms">
                 <div class="about-image">
                     <div class="image-1">
-                        <img src="assets/images/about/cctv-longtek.jpg" alt="" />
+                        <img src="assets/images/about/cctv-longtek.jpg" alt="CCTV Longtek" />
                         <div class="image-shape">
                             <img src="assets/images/about/shape-3.png" alt="" />
                         </div>
                     </div>
                     <div class="image-2">
-                        <img src="assets/images/about/cctv-installing.jpg" alt="" />
+                        <img src="assets/images/about/cctv-installing.jpg" alt="CCTV Installing" />
                     </div>
                     <div class="item">
                         <p>Services</p>
@@ -251,7 +251,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/bullet-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/bullet-cctv-security-camara.png" alt="Bullet CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Bullet CCTV</a></h6>
                     </div>
@@ -259,7 +259,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/dome-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/dome-cctv-security-camara.png" alt="dome CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Dome CCTV</a></h6>
                     </div>
@@ -267,7 +267,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/hidden-covert-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/hidden-covert-cctv-security-camara.png" alt="Hidden Covert CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Hidden/Covert CCTV</a></h6>
                     </div>
@@ -275,7 +275,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/infrared-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/infrared-cctv-security-camara.png" alt="Infrared CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Infrared CCTV</a></h6>
                     </div>
@@ -285,7 +285,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/box-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/box-cctv-security-camara.png" alt="Box CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Box CCTV</a></h6>
                     </div>
@@ -293,7 +293,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/outdoor-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/outdoor-cctv-security-camara.png" alt="Outdoor CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Outdoor CCTV</a></h6>
                     </div>
@@ -301,7 +301,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/ptz-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/ptz-cctv-security-camara.png" alt="PTZ CCTV Security Camara" />
                         </div>
                         <h6><a href="#">PTZ CCTV</a></h6>
                     </div>
@@ -309,7 +309,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/cctv/wireless-cctv-security-camara.png" alt="" />
+                            <img src="assets/images/services/cctv/wireless-cctv-security-camara.png" alt="Wireless CCTV Security Camara" />
                         </div>
                         <h6><a href="#">Wireless CCTV</a></h6>
                     </div>
@@ -331,12 +331,12 @@
         <div class="brand-wrap brand-slider-s2 owl-carousel" style="display: flex; justify-content: center; width: 100%;">
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/alhua-cctv.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/alhua-cctv.png" alt="Alhua CCTV" style="display: block; margin: auto;" />
                 </div>
             </div>
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/hikvision-cctv.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/hikvision-cctv.png" alt="Hikvision CCTV" style="display: block; margin: auto;" />
                 </div>
             </div>
         </div>

@@ -6,7 +6,7 @@
 
 @section('content')
 
-<!-- ==== BreadcumbSection start ==== -->
+<!-- breadcumbSection start -->
 <section class="breadcumb-section">
     <div class="container">
         <div class="row">
@@ -24,7 +24,7 @@
     </div>
 </section>
 
-<!-- ==== BlogPagesSection start ==== -->
+<!-- blogPagesSection start -->
 <section class="contact-us-section section_space">
     <div class="container">
         <div class="row">

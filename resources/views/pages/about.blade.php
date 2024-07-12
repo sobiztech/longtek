@@ -31,7 +31,7 @@
             <div class="col-lg-6 col-12 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2500ms">
                 <div class="about-left-wrap">
                     <div class="image-on">
-                        <img src="assets/images/about/longtek-electronics-europe-ltd.jpg" alt="" />
+                        <img src="assets/images/about/longtek-electronics-europe-ltd.jpg" alt="Longtek Electronics Europe Ltd" />
                         <div class="quate-on">
                             <div class="info">
                                 <h3>
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <div class="image-two">
-                        <img src="assets/images/about/aboutus-longtek-electronics-europe-ltd.jpg" alt="" />
+                        <img src="assets/images/about/aboutus-longtek-electronics-europe-ltd.jpg" alt="Aboutus Longtek Electronics Europe Ltd" />
                         <div class="quate-two">
                             <div class="info">
                                 <h3><span class="count">20</span>+</h3>
@@ -165,27 +165,27 @@
                 <div class="brand-wrap brand-slider owl-carousel">
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/alhua-cctv.png" alt="" />
+                            <img src="assets/images/brand/alhua-cctv.png" alt="Alhua CCTV" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/hikvision-cctv.png" alt="" />
+                            <img src="assets/images/brand/hikvision-cctv.png" alt="Hikvision CCTV" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/honeywell-alarm.png" alt="" />
+                            <img src="assets/images/brand/honeywell-alarm.png" alt="Honeywell Alarm" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/paxton-access-control.png" alt="" />
+                            <img src="assets/images/brand/paxton-access-control.png" alt="Paxton Access Control" />
                         </div>
                     </div>
                     <div class="brand-item">
                         <div class="images">
-                            <img src="assets/images/brand/pyronix-alarm.png" alt="" />
+                            <img src="assets/images/brand/pyronix-alarm.png" alt="Pyronix Alarm" />
                         </div>
                     </div>
                 </div>
@@ -321,21 +321,11 @@
                                         <img src="assets/images/testiminial/3.jpg" alt="" />
                                     </div>
                                     <ul class="retin">
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
                                     </ul>
                                 </div>
                             </div>
@@ -370,21 +360,11 @@
                                         <img src="assets/images/testiminial/4.jpg" alt="" />
                                     </div>
                                     <ul class="retin">
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/testiminial/star.png" alt="" />
-                                        </li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
+                                        <li><img src="assets/images/testiminial/star.png" alt="" /></li>
                                     </ul>
                                 </div>
                             </div>

@@ -1,6 +1,6 @@
 <div class="service-details-wrap">
     <div class="service-thumbnil">
-        <img src="assets/images/maintenanace/access-control-maintenance.jpg" alt="" />
+        <img src="assets/images/maintenanace/access-control-maintenance.jpg" alt="Access Control Maintenance" />
     </div>
     <div class="tex-wrapper">
         <h5 class="title">Access Control Maintenance Services by Longtek Electronics Ltd</h5>
@@ -52,16 +52,16 @@
         </p>
         <div class="checklist-img row">
             <div class="col-lg-8 col-md-6 col-12">
-                <img src="assets/images/maintenanace/04.jpg" alt="" />
+                <img src="assets/images/maintenanace/04.jpg" alt="Longtek Electronics Europe Access Control Maintenanace" />
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <img src="assets/images/maintenanace/05.jpg" alt="" />
+                <img src="assets/images/maintenanace/05.jpg" alt="Longtek Electronics Europe Access Control Maintenanace" />
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <img src="assets/images/maintenanace/06.jpg" alt="" />
+                <img src="assets/images/maintenanace/06.jpg" alt="Longtek Electronics Europe Access Control Maintenanace" />
             </div>
             <div class="col-lg-8 col-md-6 col-12">
-                <img src="assets/images/maintenanace/07.jpg" alt="" />
+                <img src="assets/images/maintenanace/07.jpg" alt="Longtek Electronics Europe Access Control Maintenanace" />
             </div>
         </div>
     </div>

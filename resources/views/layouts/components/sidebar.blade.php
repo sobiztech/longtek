@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-lg-2 col-10">
 					<a href="/" class="logo">
-						<img src="assets/images/longtek_electronics_ltd.png" alt="">
+						<img src="assets/images/longtek_electronics_ltd.png" alt="Longtek Electronics Ltd">
 					</a>
 				</div>
 				<div class="col-lg-6 col-2">

@@ -9,7 +9,7 @@
 <!-- ==== HeroSectionS3 start ==== -->
 <section class="hero-section">
     <div class="bg-img">
-        <img src="assets/images/slider/fire-alarm.jpg" alt="" />
+        <img src="assets/images/slider/fire-alarm.jpg" alt="Fire Alarm" />
     </div>
     <div class="container">
         <div class="hero-wrap">
@@ -115,7 +115,7 @@
         <div class="project-slider owl-carousel">
             <div class="item">
                 <div class="image">
-                    <img src="assets/images/project/burglar-alarm.jpg" alt="" />
+                    <img src="assets/images/project/burglar-alarm.jpg" alt="Burglar Alarm" />
                 </div>
                 <div class="text">
                     <span>Alarm Type 01</span>
@@ -124,7 +124,7 @@
             </div>
             <div class="item">
                 <div class="image">
-                    <img src="assets/images/project/fire-alarm.jpg" alt="" />
+                    <img src="assets/images/project/fire-alarm.jpg" alt="Fire Alarm" />
                 </div>
                 <div class="text">
                     <span>Alarm Type 02</span>
@@ -245,7 +245,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/wired-burglar-alarm.png" alt="" />
+                            <img src="assets/images/services/alarm/wired-burglar-alarm.png" alt="Wired Burglar Alarm" />
                         </div>
                         <h6><a href="#">Wired Alarms</a></h6>
                     </div>
@@ -253,7 +253,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/wireless-burglar-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/wireless-burglar-alarms.png" alt="Wireless Burglar Alarms" />
                         </div>
                         <h6><a href="#">Wireless Alarms</a></h6>
                     </div>
@@ -261,7 +261,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/audible-sound-only-burglar-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/audible-sound-only-burglar-alarms.png" alt="Audible Sound Only Burglar Alarms" />
                         </div>
                         <h6><a href="#">Audible (Sound Only) Burglar Alarms</a></h6>
                     </div>
@@ -269,7 +269,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/remotely-monitored-burglar-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/remotely-monitored-burglar-alarms.png" alt="Remotely Monitored Burglar Alarms" />
                         </div>
                         <h6><a href="#">Remotely Monitored Burglar Alarms</a></h6>
                     </div>
@@ -280,7 +280,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/ionization-smoke-fire-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/ionization-smoke-fire-alarms.png" alt="Ionization Smoke Fire Alarms" />
                         </div>
                         <h6><a href="#">Ionization Smoke Alarms</a></h6>
                     </div>
@@ -288,7 +288,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/photoelectric-smoke-fire-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/photoelectric-smoke-fire-alarms.png" alt="Photoelectric Smoke Fire Alarms" />
                         </div>
                         <h6><a href="#">Photoelectric Smoke Alarms</a></h6>
                     </div>
@@ -296,7 +296,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/heat-detectors-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/heat-detectors-alarms.png" alt="Heat Detectors Alarms" />
                         </div>
                         <h6><a href="#">Heat Detectors</a></h6>
                     </div>
@@ -304,7 +304,7 @@
                 <div class="col-lg-3 col-md-6 col-12 wow fadeInUp animated">
                     <div class="team-single">
                         <div class="image">
-                            <img src="assets/images/services/alarm/carbon-monoxide-alarms-smoke-fire-alarms.png" alt="" />
+                            <img src="assets/images/services/alarm/carbon-monoxide-alarms-smoke-fire-alarms.png" alt="Carbon Monoxide Alarms Smoke Fire Alarms" />
                         </div>
                         <h6><a href="#">Carbon Monoxide (CO) Alarms</a></h6>
                     </div>
@@ -326,17 +326,17 @@
         <div class="brand-wrap brand-slider-s2 owl-carousel" style="display: flex; justify-content: center; width: 100%;">
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/honeywell-alarm.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/honeywell-alarm.png" alt="Honeywell Alarm" style="display: block; margin: auto;" />
                 </div>
             </div>
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/pyronix-alarm.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/pyronix-alarm.png" alt="Pyronix Alarm" style="display: block; margin: auto;" />
                 </div>
             </div>
             <div class="brand-item" style="display: flex; justify-content: center; align-items: center; margin: 0 10px;">
                 <div class="images" style="display: flex; justify-content: center;">
-                    <img src="assets/images/brand/texecom-alarm.png" alt="" style="display: block; margin: auto;" />
+                    <img src="assets/images/brand/texecom-alarm.png" alt="Texecom Alarm" style="display: block; margin: auto;" />
                 </div>
             </div>
         </div>
